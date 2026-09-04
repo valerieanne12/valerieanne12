@@ -1,5 +1,5 @@
 ## Hi, I am Valerie Weiner!
-
+Aspiring Product Manager  |  Computer Science Undergraduate Student  |  Human-Centered Technology
 <!--
 **valerieanne12/valerieanne12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
