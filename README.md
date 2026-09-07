@@ -11,9 +11,9 @@ Pursuing a career in product management, particularly for products involving rob
 
 Interested in UI/UX, digital media, and human-centered product design
 
-Currently, I am expanding my skills through the Break Through Tech program
+Currently, I am expanding my skills through the Break Through Tech program.
 
-This past summer, I contributied to research involving AR simulation, eye tracking, and real-time learning feedback
+This past summer, I contributed to interdisciplinary research involving AR simulation, eye tracking, and real-time learning feedback
 
 Currently learning more about generative AI, database management, software engineering, and financial math!
 
