@@ -1,5 +1,5 @@
 ## Hi, I am Valerie Weiner!
-Aspiring Product Manager  |  Computer Science Undergraduate Student  |  Human-Centered Technology
+Aspiring Product Manager  |  Computer Science Undergraduate Student  |  Interested in UI/UX 
 <!--
 </div>
 
